@@ -1,0 +1,70 @@
+PODS:
+  - Caishen (2.1.0)
+  - CardIO (5.4.1)
+  - Crashlytics (3.9.3):
+    - Fabric (~> 1.7.2)
+  - CryptoSwift (0.8.0)
+  - Fabric (1.7.2)
+  - Hero (1.0.1)
+  - Kingfisher (4.5.0)
+  - KVNProgress (2.3.1)
+  - Localize-Swift (2.0.0)
+  - ReachabilitySwift (4.1.0)
+  - Shimmer (1.0.2)
+  - SnapKit (4.0.0)
+  - SwiftLint (0.24.0)
+  - SwiftyRSA (1.3.0):
+    - SwiftyRSA/ObjC (= 1.3.0)
+  - SwiftyRSA/ObjC (1.3.0)
+
+DEPENDENCIES:
+  - Caishen
+  - CardIO
+  - Crashlytics
+  - CryptoSwift
+  - Hero
+  - Kingfisher
+  - KVNProgress
+  - Localize-Swift
+  - ReachabilitySwift
+  - Shimmer
+  - SnapKit
+  - SwiftLint
+  - SwiftyRSA
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Caishen
+    - CardIO
+    - Crashlytics
+    - CryptoSwift
+    - Fabric
+    - Hero
+    - Kingfisher
+    - KVNProgress
+    - Localize-Swift
+    - ReachabilitySwift
+    - Shimmer
+    - SnapKit
+    - SwiftLint
+    - SwiftyRSA
+
+SPEC CHECKSUMS:
+  Caishen: 83e3d1c3f15dcc3d2d8a504a2c443ce1a7ffe5b3
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  Crashlytics: dbb07d01876c171c5ccbdf7826410380189e452c
+  CryptoSwift: f81907430ebbe38b8404b4f6fb40f3c576a8755f
+  Fabric: 9cd6a848efcf1b8b07497e0b6a2e7d336353ba15
+  Hero: cee286821578e170d8c0c9c9cda7897357401112
+  Kingfisher: 26ae0473102b77b575da51960c932431e3745407
+  KVNProgress: 8167b1f19e2758290c0b6143020ed9dcbb0477a1
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  ReachabilitySwift: 6849231cd4e06559f3b9ef4a97a0a0f96d41e09f
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftLint: a014c92b4664e8b13f380f8640a51bb1733778ba
+  SwiftyRSA: 28e1c9ab1f396fd3001d197ba03e1153b524d155
+
+PODFILE CHECKSUM: 4ecd2bc23201e2f267af534f246ae364564f4c67
+
+COCOAPODS: 1.5.0
